@@ -13,7 +13,7 @@ hello
 ___  
 hello  
 ***  
-hello 
+hello   
 ---  
 
 # 取り消し線
@@ -21,8 +21,8 @@ hello
 ~~hello world~~  
 
 # 表組み
-文字列を`||`で囲み2列目で右寄せ・中央寄せ・左寄せを指定する
-|breakfirst|lunch|dinner|
-|:--:|:--:|:--:|
-|bred|rice|pasuta|
-|bred|rice|pasuta|
+文字列を`||`で囲み2列目で右寄せ・中央寄せ・左寄せを指定する  
+|breakfirst|lunch|dinner|  
+|:--:|:--:|:--:|  
+|bred|rice|pasuta|  
+|bred|rice|pasuta|  

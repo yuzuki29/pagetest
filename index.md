@@ -1,4 +1,4 @@
-second.mdへのリンク[]
+[second.mdへのリンク](second.md)  
 # 改行されない場合の例
 こんにちは
 世界

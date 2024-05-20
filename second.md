@@ -1,4 +1,4 @@
-second.mdへのリンク[second.md]  
+[second.mdへのリンク](second.md)  
 # 引用
 > `>`を行頭に付けることで引用することができる
 >> こんにちは  
